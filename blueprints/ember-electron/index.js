@@ -67,6 +67,7 @@ module.exports = {
                 asar: null,
                 'asar-unpack': null,
                 'asar-unpack-dir': null,
+                'extend-info': null,
                 'build-version': null,
                 cache: null,
                 'helper-bundle-id': null,
